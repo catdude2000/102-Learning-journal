@@ -1,4 +1,4 @@
-# 102-Learning-journal
+# reading-notes
 ## 102-Learning journal
 
 My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.
