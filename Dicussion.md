@@ -7,4 +7,5 @@ Today I learned how to make a repository on Github.
     For example
     - [Go to README](README.md)
 I was able to add the above link using symbols like ],(, and *
+When typing it out to add to a file it would look something like this on a new line. "-[texttoappear] (filename.md)"  Although, there would be no space in the middle.  That was added to be able to show the text as it would appear in editing.
   All in all I feel this has been a very good start to the class, and am excited to continue.    
