@@ -2,7 +2,7 @@
 ## 102-Learning journal
 
 My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.
-Github: https://catdude2000.github.io/102-Learning-journal/
+Github: https://github.com/catdude2000
 
 *Growth Mindset*
 1. **Growth mindset** is a way of thinking that allows you to learn new skills and devlop your existing skills by allowing your mind to be open to neqw ideas and possibilities.
