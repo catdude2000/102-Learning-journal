@@ -6,9 +6,9 @@ Github: https://github.com/catdude2000
 
 
  Table of Contents
-### 102
+### 102 Reading Notes
 1. [Class One](discussion.md)
-2. [Class two](/classtwo.md)
+2. [Class two](Note-mds/classtwo.md)
 3. [Class three](https://catdude2000.github.io/Reading3/)
 4. [Class four](https://catdude2000.github.io/Notes4/)
 5. [Class five](https://catdude2000.github.io/reading-notes-5/)
@@ -17,8 +17,8 @@ Github: https://github.com/catdude2000
 8. [Class eight](https://catdude2000.github.io/notes8/)
 
 
-#### 201
-1. [Class one](201-1.md)
-
+#### 201 Reading Notes
+1. [Reading one](201-1.md)
+2. [Reading two]()
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
