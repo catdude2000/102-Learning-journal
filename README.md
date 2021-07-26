@@ -4,12 +4,9 @@
 My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.
 Github: https://github.com/catdude2000
 
-### live-Reading-notes-2
-
-
 
  Table of Contents
-#### 102
+### 102
 1. [Class One](https://catdude2000.github.io/reading-notes/)
 2. [Class two](/classtwo.md)
 3. [Class three](https://catdude2000.github.io/Reading3/)
@@ -17,9 +14,11 @@ Github: https://github.com/catdude2000
 5. [Class five](https://catdude2000.github.io/reading-notes-5/)
 6. [Class six](https://catdude2000.github.io/notes6/)
 7. [Class seven](https://catdude2000.github.io/notes7/)
+8. [Class eight](https://catdude2000.github.io/notes8/)
 
 
-##### 201
+#### 201
+1. [Class one]()
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
