@@ -7,7 +7,7 @@ Github: https://github.com/catdude2000
 
  Table of Contents
 ### 102
-1. [Class One](https://catdude2000.github.io/reading-notes/)
+1. [Class One](discussion.md)
 2. [Class two](/classtwo.md)
 3. [Class three](https://catdude2000.github.io/Reading3/)
 4. [Class four](https://catdude2000.github.io/Notes4/)
