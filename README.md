@@ -7,20 +7,21 @@ Github: https://github.com/catdude2000
 
  Table of Contents
 ### 102 Reading Notes
-1. [Class One](discussion.md)
-2. [Class two](Note-mds/classtwo.md)
-3. [Class three](https://catdude2000.github.io/Reading3/)
-4. [Class four](https://catdude2000.github.io/Notes4/)
-5. [Class five](https://catdude2000.github.io/reading-notes-5/)
-6. [Class six](https://catdude2000.github.io/notes6/)
-7. [Class seven](https://catdude2000.github.io/notes7/)
-8. [Class eight](https://catdude2000.github.io/notes8/)
+1. [Class One A](discussion.md)
+   [Class One B](https://catdude2000.github.io/live102/)
+2. [Class Two](Note-mds/classtwo.md)
+3. [Class Three](https://catdude2000.github.io/Reading3/)
+4. [Class Four](https://catdude2000.github.io/Notes4/)
+5. [Class Five](https://catdude2000.github.io/reading-notes-5/)
+6. [Class Six](https://catdude2000.github.io/notes6/)
+7. [Class Seven](https://catdude2000.github.io/notes7/)
+8. [Class Eight](https://catdude2000.github.io/notes8/)
 
 
 #### 201 Reading Notes
-1. [Reading one](201-1.md)
-2. [Reading two](201-2.md)
-3. [Reading three](201-3.md)
+1. [Reading One](201-1.md)
+2. [Reading Two](201-2.md)
+3. [Reading Three](201-3.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
