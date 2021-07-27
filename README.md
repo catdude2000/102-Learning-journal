@@ -20,5 +20,7 @@ Github: https://github.com/catdude2000
 #### 201 Reading Notes
 1. [Reading one](201-1.md)
 2. [Reading two](201-2.md)
+3. [Reading three](201-3.md)
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
