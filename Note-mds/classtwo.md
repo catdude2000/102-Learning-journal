@@ -25,6 +25,4 @@ Paths display the root location of your file all the way to the location it's co
 **About files**
 Everything inside linux is a file.  It does not use extensons for file names but rather looks inside the file to determine what it is.  Linux is case sensitive and spaces are used to seperate items.  To put a space in a single item it must have a backslash (\) before the space.  Also anything in "" is considered a single item.  "hidden" files are designated with a . preceeding the file name.  hidden files can be shown in a list by adding -a after ls.
 
-https://catdude2000.github.io/live-Reading-notes-2/
-
-https://github.com/catdude2000/live-Reading-notes-2/edit/main/class%20two.md
+- [Go to TOC](README.md)
