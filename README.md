@@ -25,5 +25,7 @@ Github: https://github.com/catdude2000
 4. [Reading Four](201-4.md)
 5. [Reading Five](201-5.md)
 11. [Reading Eleven](201-11.md)
+12. [Reading Twelve](201-12.md)
+13. [Reading Thirteen](201-13.md)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
