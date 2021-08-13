@@ -9,7 +9,7 @@ Github: https://github.com/catdude2000
 ### 102 Reading Notes
 1. [Class One A](discussion.md)
    [Class One B](https://catdude2000.github.io/live102/)
-2. [Class Two](Note-mds/classtwo.md)
+2. [Class Two](classtwo.md)
 3. [Class Three](https://catdude2000.github.io/Reading3/)
 4. [Class Four](https://catdude2000.github.io/Notes4/)
 5. [Class Five](https://catdude2000.github.io/reading-notes-5/)
