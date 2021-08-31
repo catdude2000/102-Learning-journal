@@ -5,7 +5,7 @@ My name is Michael Pace.  I'm devoloping my skills to explore new careers and op
 Github: https://github.com/catdude2000
 
 
- Table of Contents
+ **Table of Contents**
 
 ### Code 102 Intro to Software Development
 1. [Class One A](discussion.md)
