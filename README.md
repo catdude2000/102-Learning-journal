@@ -1,12 +1,13 @@
-# reading-notes
-## 102-Learning journal
+# Reading Notes
+## Learning journal
 
-My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.
+My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.  This page contains links to all of my notes on class readings.
 Github: https://github.com/catdude2000
 
 
  Table of Contents
-### 102 Reading Notes
+
+### Code 102 Intro to Software Development
 1. [Class One A](discussion.md)
    [Class One B](https://catdude2000.github.io/live102/)
 2. [Class Two](classtwo.md)
@@ -18,7 +19,7 @@ Github: https://github.com/catdude2000
 8. [Class Eight](https://catdude2000.github.io/notes8/)
 
 
-#### 201 Reading Notes
+### Code 201 Foundations of Software Development
 1.   [Reading One](201-1.md)
 2.   [Reading Two](201-2.md)
 3.   [Reading Three](201-3.md)
@@ -29,6 +30,11 @@ Github: https://github.com/catdude2000
 13.  [Reading Thirteen](201-13.md)
 14.  [Reading Fourteen](201-14a.md)
 14.  [Reading Fourteen](201-14b.md)
+
+
+### Code 301 Intermediate Software Development
+1.  [Reading One](301-1.md)
+2.  [Reading Two](301-2.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
