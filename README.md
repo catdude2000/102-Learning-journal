@@ -30,5 +30,9 @@ Github: https://github.com/catdude2000
 14.  [Reading Fourteen](201-14a.md)
 14.  [Reading Fourteen](201-14b.md)
 
+
+##### 301 Reading Notes 
+8.   [Reading Eight](301-8.md)
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
