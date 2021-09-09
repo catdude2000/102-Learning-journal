@@ -33,5 +33,6 @@ Github: https://github.com/catdude2000
 
 ##### 301 Reading Notes
 8.   [Reading Eight](301-8.md)
+9.   [Reading Nine](301-9.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
