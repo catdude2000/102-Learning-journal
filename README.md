@@ -35,7 +35,7 @@ Github: https://github.com/catdude2000
 8.   [Reading Eight](301-8.md)
 9.   [Reading Nine](301-9.md)
 
-#### 201 Rading Notes Take Two
+#### 201 Reading Notes Take Two
 1.   [Reading One](201-2.1.md)
 2.   [Reading Two](201-2.2.md)
 3.   [Reading Three](201-2.3.md)
