@@ -50,7 +50,7 @@ Github: https://github.com/catdude2000
 7.   [Reading Seven](201-2.7.md)
 8.   [Reading Eight](201-2.8.md)
 9.   [Reading Nine](201-2.9.md)
-10.  [Reading Ten](201-2.1o.md)
+10.  [Reading Ten](201-2.10.md)
 11.  [Reading Eleven](201-2.11.md)
 12.  [Reading Twelve](201-2.12.md)
 13.  [Reading Thirteen](201-2.13.md)
