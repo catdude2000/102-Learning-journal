@@ -54,7 +54,8 @@ Github: https://github.com/catdude2000
 11.  [Reading Eleven](201-2.11.md)
 12.  [Reading Twelve](201-2.12.md)
 13.  [Reading Thirteen](201-2.13.md)
-14.  [Reading Fourteen](201-2.14.md)
+14.  [Reading Fourteen A](201-2.14a.md)
+14.  [Reading Fourteen B](201-2.14b.md)
 15.  [Reading Fifteen](201-2.15.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
