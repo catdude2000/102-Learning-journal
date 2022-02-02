@@ -1,6 +1,6 @@
-# reading-notes
+# Reading-Notes
 
-## 102-Learning journal
+## Learning journal
 
 My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.
 Github: https://github.com/catdude2000
@@ -39,6 +39,7 @@ Github: https://github.com/catdude2000
 8.   [Reading Eight](301-8.md)
 9.   [Reading Nine](301-9.md)
 
+
 #### 201 Reading Notes Take Two
 
 1.   [Reading One](201-2.1.md)
@@ -57,5 +58,16 @@ Github: https://github.com/catdude2000
 14.  [Reading Fourteen A](201-2.14a.md)
 14.  [Reading Fourteen B](201-2.14b.md)
 15.  [Reading Fifteen](201-2.15.md)
+
+
+##### Misc
+
+[Current Questions](questionSs.md)
+
+[On Markdown Files](markdown.md)
+
+[From the First Class](discussion.md)
+
+[From the Second Branch](classtwo.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
