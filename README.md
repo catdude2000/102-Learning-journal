@@ -71,4 +71,6 @@ Github: https://github.com/catdude2000
 
 [From the Second Branch](classtwo.md)
 
+[Professional Competencies](competencies.md)
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
