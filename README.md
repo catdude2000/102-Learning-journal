@@ -7,6 +7,7 @@ Github: https://github.com/catdude2000
 
 
  Table of Contents
+
 ### 102 Reading Notes
 
 1. [Class One A](discussion.md)
