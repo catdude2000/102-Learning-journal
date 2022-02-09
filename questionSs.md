@@ -27,6 +27,7 @@ Could add related facts attached to answer sides of cards.
 	The answer images could be stored in a seperate array and displayed only directly after it's matching question.  After each question is asked the image will be put into a new array so as not to be asked again.
 	There will be a score kept and at the end (stretch goal) maybe it could tell you which concepts the user seemingly needs to work on, in text or graph form. Or maybe cards answered wrong could be put into an array to be asked again after the rest of the questions have been gone through.
 Could add CSS animation on answer submition to make it look cool and more interactive.
+Additional page needed could be for results/resources/tips.
 
 
 
