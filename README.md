@@ -8,7 +8,7 @@ Github: https://github.com/catdude2000
 
  Table of Contents
 
-### 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 1. [Class One A](discussion.md)
    [Class One B](https://catdude2000.github.io/live102/)
@@ -21,7 +21,7 @@ Github: https://github.com/catdude2000
 8. [Class Eight](https://catdude2000.github.io/notes8/)
 
 
-#### 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 1.   [Reading One](201-1.md)
 2.   [Reading Two](201-2.md)
@@ -35,7 +35,19 @@ Github: https://github.com/catdude2000
 14.  [Reading Fourteen](201-14b.md)
 
 
-##### 301 Reading Notes
+## Code 301 - Intermediate Software Development
+
+
+
+
+
+## Code 401 - Advanced Software Development
+
+
+
+
+
+#### 301 Attempt One
 
 8.   [Reading Eight](301-8.md)
 9.   [Reading Nine](301-9.md)
