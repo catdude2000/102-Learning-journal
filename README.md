@@ -5,7 +5,6 @@
 My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.
 Github: https://github.com/catdude2000
 
-
  Table of Contents
 
 ## Code 102 - Intro to Software Development
@@ -20,7 +19,6 @@ Github: https://github.com/catdude2000
 7. [Class Seven](https://catdude2000.github.io/notes7/)
 8. [Class Eight](https://catdude2000.github.io/notes8/)
 
-
 ## Code 201 - Foundations of Software Development
 
 1.   [Reading One](201-1.md)
@@ -34,10 +32,10 @@ Github: https://github.com/catdude2000
 14.  [Reading Fourteen](201-14a.md)
 14.  [Reading Fourteen](201-14b.md)
 
-
 ## Code 301 - Intermediate Software Development
 
-
+1.   [Reading One](301-1.md)
+2.   [Reading Two](301-2.md)
 
 
 
