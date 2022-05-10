@@ -1,8 +1,8 @@
 # ?
 
-where to find reset css/readme template on the fly
+What does super(props) do?
 
-Best way to add image to images folder?
+resume add math credits
 
 
 - [Go to TOC](README.md)
