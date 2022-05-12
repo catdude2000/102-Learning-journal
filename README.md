@@ -55,9 +55,9 @@ Github: https://github.com/catdude2000
 
 #### 201 Reading Notes Take Two
 
-1.   [Reading One](201-2.1.md)
-2.   [Reading Two](201-2.2.md)
-3.   [Reading Three](201-2.3.md)
+1.   [Reading One](./201/201-2.1.md)
+2.   [Reading Two](./201/201-2.2.md)
+3.   [Reading Three](./201/201-2.3.md)
 4.   [Reading Four](201-2.4.md)
 5.   [Reading Five](201-2.5.md)
 6.   [Reading Six](201-2.6.md)
