@@ -39,6 +39,7 @@ Github: https://github.com/catdude2000
 3.   [Reading Three](301-3.md)
 4.   [Reading Four](301-4.md)
 5.   [Reading Five](301-5.md)
+6.   [Reading Six](301-6.md)
 
 
 ## Code 401 - Advanced Software Development
