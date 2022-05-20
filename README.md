@@ -89,4 +89,7 @@ Github: https://github.com/catdude2000
 
 [Professional Competencies](competencies.md)
 
+[301 Class Notes](claNotes1-9.md)
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
