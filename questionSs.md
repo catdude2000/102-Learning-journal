@@ -11,6 +11,7 @@ placeholders?
 code pen?
 
 
+
 update heroku?
 
 mongo connection refused
@@ -18,11 +19,17 @@ mongo connection refused
 eslint?
 
 
-choc pizza work
 
 networking opps
 
 video, add vid and networking opps to status report assignment
+
+
+css diner img format?
+
+es6 classes
+
+restart
 
 
 - [Go to TOC](README.md)
