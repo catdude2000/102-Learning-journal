@@ -2,15 +2,15 @@
 
 resume add math credits
 
-add vid and networking opps to status report assignment
-
 reduce((accumulator, currentValue, index, array) => {
 })
 
 try format on vscode?
 
-where to find API link?
-
 schedule interviews with accountability partners
+
+prep for 401 online changes?
+
+branch problems on CE
 
 - [Go to TOC](README.md)
