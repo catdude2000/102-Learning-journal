@@ -46,6 +46,7 @@ Github: https://github.com/catdude2000
 10.  [Reading Ten](301-10.md)
 11.  [Reading Eleven](301-11.md)
 12.  [Reading Twelve](301-12.md)
+13.  [Reading Thirteen](301-13.md)
 
 
 ## Code 401 - Advanced Software Development
@@ -55,7 +56,7 @@ Github: https://github.com/catdude2000
 
 #### 301 Attempt One
 
-8.   [Reading Eight](301-8.md)
+
 9.   [Reading Nine](301-9.md)
 
 

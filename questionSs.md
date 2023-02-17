@@ -14,7 +14,6 @@ Priority:
     Lab 08  
     Lab 09  
     Lab 10  
-    Code Challenge 11  
     Code Challenge 12  
 
 - [Go to TOC](README.md)
