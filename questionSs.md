@@ -9,11 +9,12 @@ wrrc's
 Assignments to revisit:  
     Career: Class 12: Coffee Meeting  
     Career: Class 08: Professional Pitch and Introduction  
-    Career: Class 06: Behavioral Questions & Mock Interviews  
+    Career: Class 13: Attend a Networking Event  
 Priority:  
     Lab 08  
     Lab 09  
     Lab 10  
     Code Challenge 12  
+    Code Challenge 13  
 
 - [Go to TOC](README.md)
