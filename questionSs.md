@@ -8,10 +8,15 @@ wrrc's
 
 += ?  
 
+epic  
+
+json web key set in oauths  
+
+need config func  
+
 Assignments to revisit:  
     Career: Class 08: Professional Pitch and Introduction  
     Career: Class 12: Coffee Meeting  
-    Career: Class 13: Attend a Networking Event  
 Priority:  
     Lab 08  
     Lab 09  
