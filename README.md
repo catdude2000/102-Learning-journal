@@ -51,7 +51,7 @@ Github: https://github.com/catdude2000
 15.  [Reading Fifteen](301-15.md)
 
 ## Code 401 - Advanced Software Development
-
+0.1. [Prep: The Growth Mindset](prep:TheGrowthMindset.md)
 
 
 
