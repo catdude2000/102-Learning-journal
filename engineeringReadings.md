@@ -1,5 +1,7 @@
 # Engineering Readings
 
+## These are all important practical parts of the develpoment process.
+
 1. What’s the one thing I bring to this career (and a potential employer) that nobody else can?  
   No one who has spent the same amount of time fixing software also has the same level of empathy, self-awareness, and appreciation for the everyday user as me.  Using and fixing computers has been a hobby of mine my entire life, but I learn wherever I go.  Now I can put what I've learned in my years of customer service together with what I've always done for fun.  
 
@@ -11,5 +13,7 @@
 ## Things I want to know more about
 
 Is there a simple way to translate the 1000/hour thing to different ideas of success than just money?  
+
+What if you run out of why's before 5?
 
 - [Go to TOC](README.md)
