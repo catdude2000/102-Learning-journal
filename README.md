@@ -54,6 +54,7 @@ Github: https://github.com/catdude2000
 0.1. [Prep: The Growth Mindset](prepTheGrowthMindset.md)  
 0.2. [Engineering Readings](engineeringReadings.md)  
 0.3. [Data and Algorithms](prepDataAndAlg.md)  
+0.4. [Practice In Terminal](prepPracInTerm.md)  
 
 1.   [Reading One-Node Ecosystem](401-1NodeEcosystem.md)
 
