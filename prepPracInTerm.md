@@ -19,6 +19,6 @@ man (command to look up) invokes the manual pages.
  -v makes mkdir tell us what it is doing
 
 ## Cheat Sheet
-
+I'll keep this handy, should be useful.  It phrases things and categorizes them (such as the wildcard section) in ways I'm not used to, although I've used some of the characters before.
 
 - [Go to TOC](README.md)
