@@ -20,11 +20,16 @@ Why Big O<https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hackin
 
 What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?  
 Cheat sheet<https://www.bigocheatsheet.com/>  
+Are we using fixed data or variable/changing data?
+
 How can we ensure that we’ll avoid an infinite recursive call stack?  
-Add calls to stop. (maybe?)  
+"...ensure that progress is made toward the basis case or cases in every recursive call."
+<https://www.cs.rpi.edu/~sibel/csci1100/fall2015/course_notes/lec23_recursion.html#:~:text=Infinite%20recursion%20is%20avoided%20by,difficult%20to%20solve%20without%20recursion>
+
 
 ## Things I want to know more about  
 
-I wish I understood the big o equation more.  
+I wish I understood the big O equation more.  
 
 - [Go to TOC](README.md)  
+
