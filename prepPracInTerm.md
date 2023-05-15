@@ -11,9 +11,14 @@ I didn't know square brackets made items optional.  I didn't know -l provided a 
 I had forgotten that file extension names were ignored in linux.  I wasn't aware spaces could be used in file names.  I didn't know that a \ was called an escape character.  I also forgot that -a can be used to reveal all files. (including hidden ones)  
 
 ## Manual Pages  
+Manual Pages are pretty much manuals for commands on your system.
+man (command to look up) invokes the manual pages.
 
 ## File Manipulation
+ -p tells mkdir to make parent directories as needed
+ -v makes mkdir tell us what it is doing
 
 ## Cheat Sheet
+
 
 - [Go to TOC](README.md)
