@@ -58,6 +58,7 @@ Github: https://github.com/catdude2000
 0.5. [Intro To SQL](prepIntroToSQL.md)  
 
 1.   [Reading One-Node Ecosystem](401-1NodeEcosystem.md)
+2.   [Reading Two-Express,NPM,TDD,cicd](401-2ExpressNPMTDDcicd.md)
 
 
 #### 301 Attempt One
