@@ -73,7 +73,7 @@ Bookmark and Review
 [supertest](https://github.com/visionmedia/supertest)
 
 Reflection  
-What are your learning goals after reading and reviewing the class [README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-02/)
+What are your learning goals after reading and reviewing the class [README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-02/)  
 I hope to learn how to write useful tests, and to discover uses for testing I've yet to find out about.  
 
 ## Things I want to know more about  
