@@ -28,28 +28,33 @@ package called ‘jshint’ into your node project?
 npm i jshint  
 
 ## [What is TDD?](https://www.agilealliance.org/glossary/tdd/)
+
 (test driven development)  
 
 Explain why tests are important. Please explain as though I were your non technical elder.  
 Tests allow you to see if your app is working as your making it.  
 
 What are three expected benefits of testing  
+
 - reductions in defect rates
 - reduction in effort in project's final phases
 - improved design qualities and technical qualities
 
 Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.  
 Individual  
+
 - writing too many tests at once
 - writing overly trivial tests or tests for trivial code
 
 Team  
+
 - poor maintanence of the test suite, often leading to long runtime
 - abandoned test suites (seldom or never run)
 
 ## [CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8)
 
 What are three benefits of Continuous Integration?  
+
 1. increases confidence in commits
 2. Reduces risk
 3. Faster results/feedback
@@ -77,7 +82,7 @@ What are your learning goals after reading and reviewing the class [README?](htt
 I hope to learn how to write useful tests, and to discover uses for testing I've yet to find out about.  
 
 ## Things I want to know more about  
- 
+
  How to know which kind of tests to write.  
 
 - [Go to TOC](README.md)  
