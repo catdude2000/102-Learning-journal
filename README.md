@@ -42,6 +42,7 @@ Github: https://github.com/catdude2000
 6. [Reading Six](301/301-6.md)
 7. [Reading Seven](301/301-7.md)
 8. [Reading Eight](301/301-8.md)
+9.1 [Reading Nine (first attempt)](301/301-9.md)
 9. [Reading Nine](301/301-9-2.md)
 10. [Reading Ten](301/301-10.md)
 11. [Reading Eleven](301/301-11.md)
@@ -62,11 +63,7 @@ Github: https://github.com/catdude2000
 2. [Reading Two-Express,NPM,TDD,cicd](401-2ExpressNPMTDDcicd.md)
 3. [Reading Three Express REST API](401-3ExpressRESTAPI.md)
 
-#### 301 Attempt One
-
-9. [Reading Nine](301-9.md)
-
-#### 201 Reading Notes Take Two
+### 201 Reading Notes Take Two
 
 1. [Reading One](./201/201-2.1.md)
 2. [Reading Two](./201/201-2.2.md)
@@ -82,10 +79,10 @@ Github: https://github.com/catdude2000
 12. [Reading Twelve](./201/201-2.12.md)
 13. [Reading Thirteen](./201/201-2.13.md)
 14. [Reading Fourteen A](./201/201-2.14a.md)
-14. [Reading Fourteen B](./201/201-2.14b.md)
+[Reading Fourteen B](./201/201-2.14b.md)
 15. [Reading Fifteen](./201/201-2.15.md)
 
-##### Misc
+#### Misc
 
 [Current Questions](questionSs.md)
 
