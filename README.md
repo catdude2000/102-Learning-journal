@@ -34,21 +34,21 @@ Github: https://github.com/catdude2000
 
 ## Code 301 - Intermediate Software Development
 
-1.   [Reading One](301-1.md)
-2.   [Reading Two](301-2.md)
-3.   [Reading Three](301-3.md)
-4.   [Reading Four](301-4.md)
-5.   [Reading Five](301-5.md)
-6.   [Reading Six](301-6.md)
-7.   [Reading Seven](301-7.md)
-8.   [Reading Eight](301-8.md)
-9.   [Reading Nine](301-9-2.md)
-10.  [Reading Ten](301-10.md)
-11.  [Reading Eleven](301-11.md)
-12.  [Reading Twelve](301-12.md)
-13.  [Reading Thirteen](301-13.md)
-14.  [Reading Fourteen](301-14.md)
-15.  [Reading Fifteen](301-15.md)
+1.   [Reading One](301/301-1.md)
+2.   [Reading Two](301/301-2.md)
+3.   [Reading Three](301/301-3.md)
+4.   [Reading Four](301/301-4.md)
+5.   [Reading Five](301/301-5.md)
+6.   [Reading Six](301/301-6.md)
+7.   [Reading Seven](301/301-7.md)
+8.   [Reading Eight](301/301-8.md)
+9.   [Reading Nine](301/301-9-2.md)
+10.  [Reading Ten](301/301-10.md)
+11.  [Reading Eleven](301/301-11.md)
+12.  [Reading Twelve](301/301-12.md)
+13.  [Reading Thirteen](301/301-13.md)
+14.  [Reading Fourteen](301/301-14.md)
+15.  [Reading Fifteen](301/301-15.md)
 
 ## Code 401 - Advanced Software Development
 
