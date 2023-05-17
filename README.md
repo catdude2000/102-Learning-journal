@@ -51,21 +51,20 @@ Github: https://github.com/catdude2000
 15.  [Reading Fifteen](301-15.md)
 
 ## Code 401 - Advanced Software Development
+
 0.1. [Prep: The Growth Mindset](prepTheGrowthMindset.md)  
 0.2. [Engineering Readings](engineeringReadings.md)  
 0.3. [Data and Algorithms](prepDataAndAlg.md)  
 0.4. [Practice In Terminal](prepPracInTerm.md)  
 0.5. [Intro To SQL](prepIntroToSQL.md)  
 
-1.   [Reading One-Node Ecosystem](401-1NodeEcosystem.md)
-2.   [Reading Two-Express,NPM,TDD,cicd](401-2ExpressNPMTDDcicd.md)
-
+1.  [Reading One-Node Ecosystem](401-1NodeEcosystem.md)
+2.  [Reading Two-Express,NPM,TDD,cicd](401-2ExpressNPMTDDcicd.md)
+3.  [Reading Three Express REST API](401-3ExpressRESTAPI.md)
 
 #### 301 Attempt One
 
-
-9.   [Reading Nine](301-9.md)
-
+9.  [Reading Nine](301-9.md)
 
 #### 201 Reading Notes Take Two
 
@@ -86,7 +85,6 @@ Github: https://github.com/catdude2000
 14.  [Reading Fourteen B](./201/201-2.14b.md)
 15.  [Reading Fifteen](./201/201-2.15.md)
 
-
 ##### Misc
 
 [Current Questions](questionSs.md)
@@ -102,4 +100,3 @@ Github: https://github.com/catdude2000
 [301 Class Notes](claNotes1-9.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-

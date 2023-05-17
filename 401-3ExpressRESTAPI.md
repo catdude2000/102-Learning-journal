@@ -41,3 +41,11 @@ parameters.  req, res, next.
 ## Reflection
 
 What are your learning goals after reading and reviewing the class [README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-03/)
+
+Getting comfortable with REST API servers, find out what Sequelize is, figuring out routes as they relate to testing.  
+
+## Things I want to know more about  
+
+How to know what kind of next params to use.
+
+- [Go to TOC](README.md)
