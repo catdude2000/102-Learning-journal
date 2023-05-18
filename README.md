@@ -62,6 +62,7 @@ Github: https://github.com/catdude2000
 1. [Reading One-Node Ecosystem](401-1NodeEcosystem.md)
 2. [Reading Two-Express,NPM,TDD,cicd](401-2ExpressNPMTDDcicd.md)
 3. [Reading Three Express REST API](401-3ExpressRESTAPI.md)
+4. [Reading Four Data Modeling](401-4DataModeling.md)
 
 ### 201 Reading Notes Take Two
 
