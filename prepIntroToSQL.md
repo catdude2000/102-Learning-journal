@@ -6,6 +6,7 @@ Learn SQL  (Link broken in canvas)
 SQL Bolt Tutorials  
 <https://sqlbolt.com/>  
 
-![progress_in_excersize](assets/Screenshot (10).png)
+![progress_in_excersize](assets/Screenshot (11).png)
+![progress_in_excersize](assets/Screenshot (12).png)
 
 - [Go to TOC](README.md)
