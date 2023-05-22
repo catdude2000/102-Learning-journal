@@ -63,6 +63,8 @@ Github: https://github.com/catdude2000
 2. [Reading Two-Express,NPM,TDD,cicd](401-2ExpressNPMTDDcicd.md)
 3. [Reading Three Express REST API](401-3ExpressRESTAPI.md)
 4. [Reading Four Data Modeling](401-4DataModeling.md)
+5.  
+6. [Authentication](401-6Authentication.md)
 
 ### 201 Reading Notes Take Two
 
