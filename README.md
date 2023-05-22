@@ -65,6 +65,7 @@ Github: https://github.com/catdude2000
 4. [Reading Four Data Modeling](401-4DataModeling.md)
 5.  
 6. [Authentication](401-6Authentication.md)
+7. [Bearer Authorization](401-7BearerAuthorization.md)
 
 ### 201 Reading Notes Take Two
 
