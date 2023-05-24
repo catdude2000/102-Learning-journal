@@ -66,7 +66,7 @@ Github: https://github.com/catdude2000
 5.  
 6. [Authentication](401-6Authentication.md)
 7. [Bearer Authorization](401-7BearerAuthorization.md)
-
+[8](401-8.md)
 ### 201 Reading Notes Take Two
 
 1. [Reading One](./201/201-2.1.md)
