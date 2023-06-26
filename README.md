@@ -3,7 +3,7 @@
 ## Learning journal
 
 My name is Michael Pace.  I'm devoloping my skills to explore new careers and opportunities.
-Github: https://github.com/catdude2000
+Github: <https://github.com/catdude2000>
 
  Table of Contents
 
@@ -59,14 +59,16 @@ Github: https://github.com/catdude2000
 0.4. [Practice In Terminal](prepPracInTerm.md)  
 0.5. [Intro To SQL](prepIntroToSQL.md)  
 
-1. [Reading One-Node Ecosystem](401-1NodeEcosystem.md)
-2. [Reading Two-Express,NPM,TDD,cicd](401-2ExpressNPMTDDcicd.md)
-3. [Reading Three Express REST API](401-3ExpressRESTAPI.md)
-4. [Reading Four Data Modeling](401-4DataModeling.md)
+## Old 401
+
+1. [Reading One-Node Ecosystem](old401/401-1NodeEcosystem.md)
+2. [Reading Two-Express,NPM,TDD,cicd](old401/401-2ExpressNPMTDDcicd.md)
+3. [Reading Three Express REST API](old401/401-3ExpressRESTAPI.md)
+4. [Reading Four Data Modeling](old401/401-4DataModeling.md)
 5.  
-6. [Authentication](401-6Authentication.md)
-7. [Bearer Authorization](401-7BearerAuthorization.md)
-8. [Access Control](401-8AccessControl.md)
+6. [Authentication](old401/401-6Authentication.md)
+7. [Bearer Authorization](old401/401-7BearerAuthorization.md)
+8. [Access Control](old401/401-8AccessControl.md)
 
 ### 201 Reading Notes Take Two
 
@@ -91,14 +93,14 @@ Github: https://github.com/catdude2000
 
 [Current Questions](questionSs.md)
 
-[On Markdown Files](markdown.md)
+[On Markdown Files](old/markdown.md)
 
-[From the First Class](discussion.md)
+[From the First Class](old/discussion.md)
 
-[From the Second Branch](classtwo.md)
+[From the Second Branch](old/classtwo.md)
 
-[Professional Competencies](competencies.md)
+[Professional Competencies](old/competencies.md)
 
-[301 Class Notes](claNotes1-9.md)
+[301 Class Notes](301/claNotes1-9.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
