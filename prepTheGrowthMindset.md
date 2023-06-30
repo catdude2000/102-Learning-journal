@@ -2,7 +2,7 @@
 
 ## Upgrade your technical skills with deliberate practice  
 
-I did use this technique as a musician in highschool.  Practicing the difficult parts of a process does help more than practicing the easy parts.  
+I did use this technique as a musician in high school.  Practicing the difficult parts of a process does help more than practicing the easy parts.  
 
 "Deliberate practice can be summarized as:  
 Activities designed, typically by a teacher, for the sole purpose of effectively improving specific aspects of an individual’s performance."  
@@ -82,7 +82,7 @@ MEANINGFUL CONNECTIONS 11
 EFFECTIVE COURAGE 11
 FOUR WAYS TO ACT 10  
 90/120  
-I consider myself pretty good at identifying and challenging biases.  I actually find it a road to peacefullness of the mind.  I hate not being able to understand the actions of others.  The answers that society throws at us, such as greed, stupidity, evil are not inherent more for one person to the next, generally speaking.  As a white male, I do find it challenging to openly discuss biases, as most societal biases relating to gender and race don't affect me negatively.  I fear that I may be more out of touch than I realize, or that I may be ignored or revered for seeming that way.  
+I consider myself pretty good at identifying and challenging biases.  I actually find it a road to peacefulness of the mind.  I hate not being able to understand the actions of others.  The answers that society throws at us, such as greed, stupidity, evil are not inherent more for one person to the next, generally speaking.  As a white male, I do find it challenging to openly discuss biases, as most societal biases relating to gender and race don't affect me negatively.  I fear that I may be more out of touch than I realize, or that I may be ignored or revered for seeming that way.  
 
 ## Things I want to know more about
 
