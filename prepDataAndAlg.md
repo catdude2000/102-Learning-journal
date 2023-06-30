@@ -28,7 +28,7 @@ How can we ensure that we’ll avoid an infinite recursive call stack?
 
 ## Things I want to know more about  
 
-I wish I understood the big O equation more.
-Also how did it become so widely used?    
+I wish I understood the big O equation more.  
+Also how did it become so widely used?  
 
 - [Go to TOC](README.md)  
