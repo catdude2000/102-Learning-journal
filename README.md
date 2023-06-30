@@ -59,16 +59,7 @@ Github: <https://github.com/catdude2000>
 0.4. [Practice In Terminal](prepPracInTerm.md)  
 0.5. [Intro To SQL](prepIntroToSQL.md)  
 
-## Old 401
-
-1. [Reading One-Node Ecosystem](old401/401-1NodeEcosystem.md)
-2. [Reading Two-Express,NPM,TDD,cicd](old401/401-2ExpressNPMTDDcicd.md)
-3. [Reading Three Express REST API](old401/401-3ExpressRESTAPI.md)
-4. [Reading Four Data Modeling](old401/401-4DataModeling.md)
-5.  
-6. [Authentication](old401/401-6Authentication.md)
-7. [Bearer Authorization](old401/401-7BearerAuthorization.md)
-8. [Access Control](old401/401-8AccessControl.md)
+1. [Reading One-Node Ecosystem](401/401-1NodeEcosystem.md)
 
 ### 201 Reading Notes Take Two
 

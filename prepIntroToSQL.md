@@ -1,7 +1,10 @@
 # SQL Practice
 
-Learn SQL  (Link broken in canvas)
-<https://cdn2.hubspot.net/hubfs/392937/Learn%20SQL.pdf>  
+[SQL Database Tutorial for Beginners](https://www.computer-pdf.com/3-sql-database-tutorial-for-beginners)  
+
+ SQL "...is a query language used to access a database from a language like C/C++, Java, or a web application."  
+ "Commonly used databases include Oracle, SQL Server, MySQL, Sybase, and PostgreSQL."
+ It's the language of most DBs.
 
 SQL Bolt Tutorials  
 <https://sqlbolt.com/>  
