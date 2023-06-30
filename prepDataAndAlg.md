@@ -4,17 +4,17 @@ Data Structures and Algorithms (often referred to as DSA) are fundamental princi
 
 ## Watch
 
-Basic Recursion<https://www.youtube.com/watch?v=vPEJSJMg4jY>  
+Basic Recursion <https://www.youtube.com/watch?v=vPEJSJMg4jY>  
 
-Data Structures in 15 Minutes<https://www.youtube.com/watch?v=sVxBVvlnJsM>  
+Data Structures in 15 Minutes <https://www.youtube.com/watch?v=sVxBVvlnJsM>  
 
-Big O Explained<https://www.youtube.com/watch?v=v4cd1O4zkGw>  
+Big O Explained <https://www.youtube.com/watch?v=v4cd1O4zkGw>  
 
 ## Read
 
-[Basic Data Structures]<https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42>  
+Basic Data Structures <https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42>  
 
-[Why Big O]<https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms>  
+Why Big O <https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms>  
 
 ## Discussion Questions
 
@@ -28,6 +28,7 @@ How can we ensure that we’ll avoid an infinite recursive call stack?
 
 ## Things I want to know more about  
 
-I wish I understood the big O equation more.  
+I wish I understood the big O equation more.
+Also how did it become so widely used?    
 
 - [Go to TOC](README.md)  
