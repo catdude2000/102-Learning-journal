@@ -17,12 +17,21 @@ I had forgotten that file extension names were ignored in linux.  I wasn't aware
 ## Manual Pages  
 
 Manual Pages are pretty much manuals for commands on your system.
-man (command to look up) invokes the manual pages.
+'man (command to look up)' invokes the manual pages. To exit the manual pages press 'q' for quit.  
+'man -k (search term)' does a keyword search. Use 'n' for next item found.  
 
 ## File Manipulation
 
- -p tells mkdir to make parent directories as needed
- -v makes mkdir tell us what it is doing
+Use mkdir [ options] (Directory)  
+ -p tells mkdir to make parent directories as needed  
+ -v makes mkdir tell us what it is doing  
+'rmdir [ options] (Directory)' for removing  
+  -supports v and p  
+  -add -f for nonempty directories 'rm -r backups'  
+Use touch to make a blank file 'touch [ options] (filename)'  
+Use 'cp [ options] < source> < destination>' to copy a file or directory.  
+Use 'mv [ options] < source> < destination>' to move a file or directory.  
+  -Also Can be used for renaming (ex:'mv foo foo3')  
 
 ## Cheat Sheet
 
