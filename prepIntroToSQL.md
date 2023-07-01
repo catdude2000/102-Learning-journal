@@ -12,5 +12,7 @@ SQL Bolt Tutorials
 ![progress_in_excersize](assets/Screenshot (11).png)
 ![progress_in_excersize](assets/Screenshot (12).png)
 ![progress_in_excersize](assets/sqlPrep3.png)
+![progress_in_excersize](assets/sqlprep4.png)
+![progress_in_excersize](assets/sqlprep5.png)
 
 - [Go to TOC](README.md)
