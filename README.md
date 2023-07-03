@@ -60,6 +60,7 @@ Github: <https://github.com/catdude2000>
 0.5. [Intro To SQL](prepIntroToSQL.md)  
 
 1. [Reading One-Node Ecosystem](401/401-1NodeEcosystem.md)
+2. [Reading Two-Express, NPM, TDD, CI/CD](401/401-2.2.md)
 
 ### 201 Reading Notes Take Two
 
