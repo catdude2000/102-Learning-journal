@@ -4,7 +4,7 @@
 
 ## Readings
 
-Review: [ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+### Review: [ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 Classes are a template for creating ____.  
 Creating objects  
@@ -15,7 +15,7 @@ No
 How would you describe a constructor and contextual “this” to a non-technical friend?  
 It specifies an object and what is a part of it.  
 
-[Using Express Routing](https://expressjs.com/en/guide/routing.html)
+### [Using Express Routing](https://expressjs.com/en/guide/routing.html)
 
 Within Express, what does routing refer to?  
 "...how an application’s endpoints (URIs) respond to client requests."  
@@ -27,7 +27,7 @@ Route methods provide the routing funcionality.  Route paths specify one specifi
 When is it appropriate to add next as a parameter to a route handler and what must you do if next has been passed to your middleware as a parameter?  
 When imposing pre-conditions on a route, or to bypass remaining route callbacks, then pass control to subsequent routes.  
 
-[Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+### [Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
 
 What is an Express Router?  
 It's like a small express app. It provides us with the routing APIs like .use, .get, .param, and route.  
@@ -46,6 +46,6 @@ Getting comfortable with REST API servers, find out what Sequelize is, figuring 
 
 ## Things I want to know more about  
 
-How to know what kind of next params to use.
+When to use Express vs other methods.
 
 - [Go to TOC](README.md)
