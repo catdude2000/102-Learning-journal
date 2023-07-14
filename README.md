@@ -63,6 +63,7 @@ Github: <https://github.com/catdude2000>
 2. [Reading Two-Express, NPM, TDD, CI/CD](401/401-2.2.md)
 3. [Reading Three-Express REST API](401/401-3ExpressRESTAPI.md)
 4. [Reading Four-Data Modeling](./401/401-4.2.md)
+5. [Reading Five-Linked Lists](./401/401-5.md)
 
 ### 201 Reading Notes Take Two
 
