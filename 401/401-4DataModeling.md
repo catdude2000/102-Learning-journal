@@ -20,7 +20,7 @@ SQL needs more power to build upwards, NoSQL can just be extended.
 Among data tables, what is a one-to-many relationship and how do we “relate” them?  
 When an entry in a table can be related to more than one in another, connected by lines.  
 
-Prior to designing your relational database, it might be useful to ___ a ___ of the database tables and their relationships.  
+Prior to designing your relational database, it might be useful to ___a___ of the database tables and their relationships.  
 make a diagram?  
 
 Explain the difference between a primary and foreign key.  
