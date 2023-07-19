@@ -64,6 +64,7 @@ Github: <https://github.com/catdude2000>
 3. [Reading Three-Express REST API](401/401-3ExpressRESTAPI.md)
 4. [Reading Four-Data Modeling](./401/401-4.2.md)
 5. [Reading Five-Linked Lists](./401/401-5.md)
+6. [Reading Six-Authentication](./401/401-6Authentication.md)
 
 ### 201 Reading Notes Take Two
 
