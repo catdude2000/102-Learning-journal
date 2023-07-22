@@ -3,7 +3,7 @@
 ## [Intro to JWT](https://jwt.io/introduction/)
 
 What is a JSON Web Token (JWT)?  
-A token format tha's used in authentication online.  
+A token format that's used in authentication online.  
 
 When should we use JSON Web Tokens?  
 Easy to use and works on many things.  
