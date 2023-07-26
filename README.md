@@ -66,6 +66,7 @@ Github: <https://github.com/catdude2000>
 5. [Reading Five-Linked Lists](./401/401-5.md)
 6. [Reading Six-Authentication](./401/401-6Authentication.md)
 7. [Reading Sev(en-Bearer-Authorization](401/401-7BearerAuthorization.md)
+8. [Reading-Eight-RBAC](401/401-8.md)  
 
 ### 201 Reading Notes Take Two
 
