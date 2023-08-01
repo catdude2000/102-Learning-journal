@@ -89,6 +89,8 @@ Github: <https://github.com/catdude2000>
 
 #### Misc
 
+[401 Code Challenge 9](CC9.md)
+
 [Current Questions](questionSs.md)
 
 [On Markdown Files](old/markdown.md)
