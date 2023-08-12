@@ -71,6 +71,7 @@ Github: <https://github.com/catdude2000>
 10. [Reading Ten-Stacks and Queues](401/401-10.md)  
 11. [Reading Eleven-Event Driven Programming](401/401-11.md)
 12. [Reading Twelve-Socket.io](401/401-12.md)
+13. [Reading Thirteen-Message Queues](401/401-13.md)
 
 ### 201 Reading Notes Take Two
 
