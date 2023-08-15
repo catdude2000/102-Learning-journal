@@ -72,6 +72,7 @@ Github: <https://github.com/catdude2000>
 11. [Reading Eleven-Event Driven Programming](401/401-11.md)
 12. [Reading Twelve-Socket.io](401/401-12.md)
 13. [Reading Thirteen-Message Queues](401/401-13.md)
+14. [Reading Fourteen-Event Driven Architecture](401/401-14.md)
 
 ### 201 Reading Notes Take Two
 
