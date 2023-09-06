@@ -77,6 +77,7 @@ Github: <https://github.com/catdude2000>
 16. [Reading Sixteen-Cloud Servers](401/401-16.md)
 17. [Reading Seventeen-S3 and Lambda](401/401-17.md)
 18. [Reading Eighteen-AWS: API, Dynamo and Lambda](401/401-18.md)
+19. [Reading Nineteen AWS: Events](401/401-19.md)
 
 ### 201 Reading Notes Take Two
 
