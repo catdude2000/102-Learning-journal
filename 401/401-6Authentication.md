@@ -51,3 +51,14 @@ To be able to make my own basic authorization.
 What other types of authorization are popular?  
 
 - [Go to TOC](README.md)
+
+### Class notes
+
+401N Class 6 Notes
+
+Encoding
+-mutated data using a specfic sequence to modify it
+
+npm i bcrypt base-64
+
+Hash rounds default to 10 if not specified

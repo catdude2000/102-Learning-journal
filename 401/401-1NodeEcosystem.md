@@ -41,3 +41,11 @@ I hope to find unique uses for express and server integration in general.
 Future of runtimes and engines.  
 
 - [Go to TOC](README.md)  
+
+### Class Notes
+
+https://www.npmjs.com/package/supertest
+
+https://jestjs.io/docs/expect
+
+toBe = toStrictEqual (I think)
