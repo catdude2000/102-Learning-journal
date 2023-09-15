@@ -44,8 +44,8 @@ Future of runtimes and engines.
 
 ### Class Notes
 
-https://www.npmjs.com/package/supertest
+<https://www.npmjs.com/package/supertest>
 
-https://jestjs.io/docs/expect
+<https://jestjs.io/docs/expect>
 
 toBe = toStrictEqual (I think)

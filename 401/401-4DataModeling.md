@@ -55,3 +55,23 @@ How to use postgres and sql.
 Are there ever bits of code (beyond just plain information) pulled from dbs to make an app work?
 
 - [Go to TOC](README.md)
+
+### Class Notes
+
+router allows us to modularize code
+
+app.use brings in all routes to serverjs
+
+collections allow you to save reqs in thundclient
+
+id get is for getting one item or updating one item (or delete)
+
+findbypk is find by primary key
+
+double colon on sqlite:memory (::) might not work, single colon will create memory log file on test
+
+association between models info in db happens in routes file
+
+sequelize docs associations
+
+collectionjs allows for changes, takes crud stuff from route files

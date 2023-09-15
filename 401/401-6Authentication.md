@@ -54,8 +54,6 @@ What other types of authorization are popular?
 
 ### Class notes
 
-401N Class 6 Notes
-
 Encoding
 -mutated data using a specfic sequence to modify it
 

@@ -49,3 +49,64 @@ Getting comfortable with REST API servers, find out what Sequelize is, figuring 
 When to use Express vs other methods.
 
 - [Go to TOC](README.md)
+
+### Class 1-3 Notes
+
+code lives in class repo, video here once processed:
+
+"rm -rf (foldername)" to remove files in terminal
+
+cp = copy
+-r = recursive
+
+"next" with nothing in it "()" in appget error response passes it to next middleware, message can be be put in "('message')"
+
+don't put app.use'*' 404 before other responses, or they wont be read
+
+app.use incorporates post put patch instead of app.get only doing get
+
+root level index.js file for entry, specified in packjson
+
+module.exports = { start, app } is an example of exporting from a server file, object restructuring in index calls this (I think)
+
+tests need async
+
+imbed image in md with ![image](path)
+
+yml helps autodeploy and shows actions (on tests?) for TA
+
+start script = (same as?) start command
+
+class 2--------------------------------------------
+
+redeploy after adding env variables
+
+ask for sample data for wb interview
+
+middleware is code that interacts with req res and next
+
+can add individual middleware to specific routes, appuse puts it on all following
+
+need run in npm run if anything but test or start
+
+class 3-------------------------
+
+integration tests tests multiple units of code, unit tests one unit of code
+
+postgres is a db used with a postgresSQL dialect
+
+sequelize: ORM. (object-relational mapping or mapper) Sequlize is to postgres as mongoose is to mongo
+
+sqlite3: sqlite is ORM we will use specifically to TEST our DB - avoids side effects
+
+sequelize CRUD create(), find() (or findOne()), Update(), Destroy()
+
+"\c api-app" connects to api-app server in postgres
+
+SELECT * (everything) FROM
+
+customize config.json
+
+cheat sheet in class 3 repo readme
+
+sqlize docs model querying basics
