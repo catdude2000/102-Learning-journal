@@ -14,7 +14,7 @@ Github: <https://github.com/catdude2000>
 2. [Class Two](classtwo.md)
 3. [Class Three](https://catdude2000.github.io/Reading3/)
 4. [Class Four](old/102-4.md)
-5. [Class Five](https://catdude2000.github.io/reading-notes-5/)
+5. [Class Five](old/102-5.md)
 6. [Class Six](https://catdude2000.github.io/notes6/)
 7. [Class Seven](https://catdude2000.github.io/notes7/)
 8. [Class Eight](old/102-8.md)
