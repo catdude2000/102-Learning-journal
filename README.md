@@ -11,11 +11,11 @@ Github: <https://github.com/catdude2000>
 
 1. [Class One](old/discussion.md)
 2. [Class Two](old/classtwo.md)
-3. [Class Three](https://catdude2000.github.io/Reading3/)
+3. [Class Three](NA)
 4. [Class Four](old/102-4.md)
 5. [Class Five](old/102-5.md)
-6. [Class Six](https://catdude2000.github.io/notes6/)
-7. [Class Seven](https://catdude2000.github.io/notes7/)
+6. [Class Six](old/102-6.md)
+7. [Class Seven](old/102-7.md)
 8. [Class Eight](old/102-8.md)
 
 ## Code 201 - Foundations of Software Development
