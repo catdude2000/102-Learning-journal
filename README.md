@@ -13,7 +13,7 @@ Github: <https://github.com/catdude2000>
    [Class One B](https://catdude2000.github.io/live102/)
 2. [Class Two](classtwo.md)
 3. [Class Three](https://catdude2000.github.io/Reading3/)
-4. [Class Four](https://catdude2000.github.io/Notes4/)
+4. [Class Four](old/102-4.md)
 5. [Class Five](https://catdude2000.github.io/reading-notes-5/)
 6. [Class Six](https://catdude2000.github.io/notes6/)
 7. [Class Seven](https://catdude2000.github.io/notes7/)
