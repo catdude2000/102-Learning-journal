@@ -17,7 +17,7 @@ Github: <https://github.com/catdude2000>
 5. [Class Five](https://catdude2000.github.io/reading-notes-5/)
 6. [Class Six](https://catdude2000.github.io/notes6/)
 7. [Class Seven](https://catdude2000.github.io/notes7/)
-8. [Class Eight](https://catdude2000.github.io/notes8/)
+8. [Class Eight](old/102-8.md)
 
 ## Code 201 - Foundations of Software Development
 
