@@ -14,7 +14,7 @@ Github: <https://github.com/catdude2000>
 3. [Class Three](NA)
 4. [Class Four](old/102-4.md)
 5. [Class Five](old/102-5.md)
-6. [Class Six](old/102-6.md)
+6. [Class Six](old/102-6.md )
 7. [Class Seven](old/102-7.md)
 8. [Class Eight](old/102-8.md)
 
