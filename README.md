@@ -9,9 +9,8 @@ Github: <https://github.com/catdude2000>
 
 ## Code 102 - Intro to Software Development
 
-1. [Class One A](discussion.md)
-   [Class One B](https://catdude2000.github.io/live102/)
-2. [Class Two](classtwo.md)
+1. [Class One](old/discussion.md)
+2. [Class Two](old/classtwo.md)
 3. [Class Three](https://catdude2000.github.io/Reading3/)
 4. [Class Four](old/102-4.md)
 5. [Class Five](old/102-5.md)
