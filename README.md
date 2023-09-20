@@ -41,7 +41,7 @@ Github: <https://github.com/catdude2000>
 6. [Reading Six](301/301-6.md)
 7. [Reading Seven](301/301-7.md)
 8. [Reading Eight](301/301-8.md)
-9.1 [Reading Nine (first attempt)](301/301-9.md)
+9.1 [Reading Nine (first)](301/301-9.md)
 9. [Reading Nine](301/301-9-2.md)
 10. [Reading Ten](301/301-10.md)
 11. [Reading Eleven](301/301-11.md)
